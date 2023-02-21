@@ -14,8 +14,7 @@ if len(sys.argv) < 2 :
 url = sys.argv[1]
 os.system(f"curl {url} > pagina.txt")
 
-#Hola
-
+#Hola muy buenas tardes
 
 #A continuación voy a abrir el archivo con el código fuente para hacer un bucle.
 #Este bucle buscará la cadena "videoId": y sacará el contenido que tiene hasta
